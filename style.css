@@ -1,0 +1,17 @@
+body {
+    background-color:#3a7db0;
+    color:#f0bbe0;
+    padding: 10x;
+}
+
+#image{
+    float: left;
+}
+
+#descriptiom{
+    float:right;
+}
+
+#reviews{
+    clear: both;
+}
